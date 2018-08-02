@@ -1,0 +1,177 @@
+body {
+  font-family: 'Roboto Slab', serif; }
+
+.greyBar {
+  background-color: grey;
+  height: 20px; }
+
+.top-logo-clarks {
+  margin-top: -25px; }
+
+.navbar-toggler {
+  background-color: rgba(1, 1, 1, 0.5); }
+
+.fa-bars {
+  color: rgba(255, 255, 255, 0.5); }
+
+.topArea {
+  background: url("../img/header.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.navbar .nav-link {
+  font-size: 14px;
+  text-transform: uppercase;
+  padding-left: 1em !important;
+  padding-right: 1em !important;
+  color: white;
+  padding-top: 0;
+  padding-bottom: 0; }
+
+.navbar .nav-item.side-bar {
+  border-right: #fff 2px solid; }
+
+.navbar .nav-item {
+  color: white; }
+
+.navbar .nav-item:hover {
+  color: grey;
+  font-size: 110%; }
+
+.navbar-collapse {
+  text-align: right; }
+
+.fa-facebook {
+  border: white 1px solid;
+  border-radius: 20%;
+  border-color: white;
+  padding-top: 5px;
+  padding-bottom: 4px;
+  padding-right: 7px;
+  padding-left: 7px; }
+
+.heading-title {
+  margin-top: 50px; }
+
+.para {
+  padding: 30px; }
+
+.call-to-action {
+  margin-bottom: 90px;
+  border-radius: 150px; }
+
+.call-to-action:hover {
+  color: #DCE2C8;
+  background-color: rgba(255, 255, 255, 0.5); }
+
+.meat-background {
+  background: url("../img/meat_background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.title-1 {
+  margin-top: 90px;
+  color: rgba(0, 0, 0, 0.5); }
+
+.steak {
+  background: url("../img/side.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.title-2 {
+  margin-top: 90px;
+  color: rgba(255, 255, 255, 0.7); }
+
+.foots {
+  background-color: black; }
+
+.bottom-logo {
+  margin: 20px;
+  margin-bottom: 40px; }
+
+a:hover {
+  text-decoration: none; }
+
+.rest {
+  margin-bottom: -40px; }
+
+.top-about {
+  background-color: grey; }
+
+.shop-background {
+  background: url("../img/business_shop.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; }
+
+.spacer {
+  height: 450px; }
+
+.overlay-light {
+  background-color: rgba(255, 255, 255, 0.8);
+  margin: 0; }
+
+.title-about {
+  margin-top: 80px;
+  margin-bottom: 50px;
+  margin-right: 70px;
+  margin-left: 70px;
+  color: rgba(0, 0, 0, 0.5); }
+
+.container-fluid {
+  padding: 0; }
+
+.call-to-action-about-bottom {
+  margin-bottom: 30px;
+  border-radius: 150px; }
+
+.call-to-action-about-bottom:hover {
+  color: #DCE2C8;
+  background-color: rgba(255, 255, 255, 0.5); }
+
+.card-img-top {
+  padding: 25px; }
+
+.contact-background {
+  background: url("../img/land.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; }
+
+.overlay-light-2 {
+  background-color: rgba(255, 255, 255, 0.5);
+  margin: 0; }
+
+.map {
+  height: 300px;
+  width: 450px;
+  text-align: center; }
+
+.partners {
+  background: url("../img/group.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; }
+
+.retail {
+  background: url("../img/building.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; }
+
+.overlay-dark {
+  background-color: rgba(0, 0, 0, 0.7);
+  margin: 0; }
+
+.container {
+  max-width: 100%; }
+
+.row {
+  max-width: 100%; }
+
+.greyBar {
+  margin: 0; }
+
+@media only screen and (max-width: 670px) {
+  .heading-title {
+    font-size: 50px; } }
